@@ -2,3 +2,4 @@ streamlit
 pandas
 pandas-dq
 PyMuPDF
+ipython
