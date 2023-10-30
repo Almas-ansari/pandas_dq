@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pandas_dq
 import PyMuPDF
+import fitz
 
 def generate_report(df):
     report = pandas_dq.dq_report(df)

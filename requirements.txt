@@ -3,3 +3,4 @@ pandas
 pandas-dq
 PyMuPDF
 ipython
+fitz
